@@ -1,0 +1,3 @@
+name: CloverSpells
+version: ${project.version}
+main: com.cloverspells.cloverspells.CloverSpells
