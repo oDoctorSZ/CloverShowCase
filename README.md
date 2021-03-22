@@ -1,1 +1,2 @@
 # CloverShowCase
+Clover Spell Plugin!
